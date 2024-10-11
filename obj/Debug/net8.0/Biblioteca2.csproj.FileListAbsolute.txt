@@ -1,0 +1,9 @@
+D:\ARQUIVOS\ARQUIVOS\Desktop\Biblioteca2\obj\Debug\net8.0\Biblioteca2.csproj.AssemblyReference.cache
+D:\ARQUIVOS\ARQUIVOS\Desktop\Biblioteca2\obj\Debug\net8.0\Biblioteca2.GeneratedMSBuildEditorConfig.editorconfig
+D:\ARQUIVOS\ARQUIVOS\Desktop\Biblioteca2\obj\Debug\net8.0\Biblioteca2.AssemblyInfoInputs.cache
+D:\ARQUIVOS\ARQUIVOS\Desktop\Biblioteca2\obj\Debug\net8.0\Biblioteca2.AssemblyInfo.cs
+D:\ARQUIVOS\ARQUIVOS\Desktop\Biblioteca2\obj\Debug\net8.0\Biblioteca2.csproj.CoreCompileInputs.cache
+D:\ARQUIVOS\ARQUIVOS\Desktop\Biblioteca2\obj\Debug\net8.0\Biblioteca2.MvcApplicationPartsAssemblyInfo.cache
+D:\ARQUIVOS\ARQUIVOS\Desktop\Biblioteca2\obj\Debug\net8.0\Biblioteca2.RazorAssemblyInfo.cache
+D:\ARQUIVOS\ARQUIVOS\Desktop\Biblioteca2\obj\Debug\net8.0\Biblioteca2.RazorAssemblyInfo.cs
+D:\ARQUIVOS\ARQUIVOS\Desktop\Biblioteca2\obj\Debug\net8.0\Biblioteca2.sourcelink.json
